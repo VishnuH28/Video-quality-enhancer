@@ -17,4 +17,5 @@ cd Video-quality-enhancer
 ```
 
 2. Script to run:
+```bash
 python x.py --superres GFPGAN -iv input_video.mp4 -ia input_audio.mp3 -o output.mp4
