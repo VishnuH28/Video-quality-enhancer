@@ -1,0 +1,6 @@
+torch
+torchvision
+gfpgan
+basicsr
+opencv-python
+numpy
