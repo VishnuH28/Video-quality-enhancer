@@ -14,3 +14,7 @@ This project applies GFPGAN super-resolution to video frames, specifically focus
 ```bash
 git clone https://github.com/VishnuH28/Video-quality-enhancer.git
 cd Video-quality-enhancer
+```
+
+2. Script to run:
+python x.py --superres GFPGAN -iv input_video.mp4 -ia input_audio.mp3 -o output.mp4
